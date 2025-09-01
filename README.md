@@ -25,9 +25,13 @@ https://evylafernanda.github.io/Toggle-de-Dark_Light
 
 ## 📂 Estrutura de Pastas
 ┣ 📂 src
+
 ┃ ┣ 📜 style.css
+
 ┃ ┗ 📜 script.js
+
 ┣ 📜 index.html
+
 ┗ 📜 README.md
 
 ---
